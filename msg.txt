@@ -1,0 +1,1 @@
+{"nama":"Dhika Rizki Anbiya","nim":"23515029","universitas":"Institut Teknologi Bandung","prodi":"informatika","lulus":"19 Maret 2018"}
